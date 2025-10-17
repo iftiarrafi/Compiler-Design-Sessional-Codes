@@ -1,0 +1,5 @@
+--------starting lexical analysis------
+University =  CUET 
+Dept =  CSE 
+Series =  20 
+--------ending lexical analysis------

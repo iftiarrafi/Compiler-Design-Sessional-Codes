@@ -1,0 +1,72 @@
+======Semantic analysis starting======
+Found = a , token = ID 
+Found = = , token = EQ 
+Found = ( , token = LB 
+Found = b , token = ID 
+valid
+valid
+Found = + , token = OP 
+valid
+Found = 100 , token = NUM 
+valid
+valid
+Found = ) , token = RB 
+valid
+valid
+valid
+Found = / , token = OP 
+Found = ( , token = LB 
+Found = 200 , token = NUM 
+valid
+valid
+Found = + , token = OP 
+valid
+Found = ( , token = LB 
+Found = 300 , token = NUM 
+valid
+valid
+Found = + , token = OP 
+valid
+Found = c , token = ID 
+valid
+valid
+Found = * , token = OP 
+Found = ( , token = LB 
+Found = 9 , token = NUM 
+valid
+valid
+Found = + , token = OP 
+valid
+Found = d , token = ID 
+valid
+valid
+Found = * , token = OP 
+Found = ( , token = LB 
+Found = 10 , token = NUM 
+valid
+valid
+Found = + , token = OP 
+valid
+Found = e , token = ID 
+valid
+valid
+Found = ) , token = RB 
+valid
+valid
+valid
+Found = ) , token = RB 
+valid
+valid
+valid
+Found = ) , token = RB 
+valid
+valid
+valid
+Found = ) , token = RB 
+valid
+valid
+valid
+Found = ; , token = SEMI 
+valid
+valid
+======Semantic analysis ended======

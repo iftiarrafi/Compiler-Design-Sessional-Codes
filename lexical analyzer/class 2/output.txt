@@ -1,0 +1,7 @@
+-----Starting lexical analysis-------
+Found = I -> Token = Noun
+Found = eat -> Token = Verb
+Found = G -> Unknown
+Found = M -> Unknown
+Found = rice -> Token = Object
+-----Ending lexical analysis-------

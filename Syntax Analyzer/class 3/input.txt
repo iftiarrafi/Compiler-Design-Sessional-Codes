@@ -1,0 +1,9 @@
+if(a > b){
+    if(g >= f){
+        b = 10;
+    }
+}else if (b > c){
+    d = b + e; 
+}else{
+    c = 10;
+}

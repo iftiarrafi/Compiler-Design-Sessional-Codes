@@ -1,0 +1,2 @@
+-----Syntax analysis started-----
+if(a>b){if(g>=f){b=10;}}elseif(b>c){d=b+e;}else{c=10;}-----Syntax analysis ended-----

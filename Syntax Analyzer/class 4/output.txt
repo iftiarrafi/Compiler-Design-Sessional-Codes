@@ -1,0 +1,2 @@
+-----Syntax analysis started-----
+for(i=0;i<10;i=i+1){if(a>b){if(g>=f){b=10;}while(a<b){b=c;}}elseif(b>c){d=b+e;}else{c=10;}}-----Syntax analysis ended-----

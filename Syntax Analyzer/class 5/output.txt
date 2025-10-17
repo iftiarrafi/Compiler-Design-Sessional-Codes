@@ -1,0 +1,49 @@
+========Syntax analyzing started=====
+int
+helloworld
+(
+int
+a
+,
+int
+b
+)
+{
+c
+=
+a
++
+b
+;
+if
+(
+c
+>
+10
+)
+{
+c
+=
+100
+;
+String matched!
+}
+String matched!
+else
+{
+c
+=
+200
+;
+String matched!
+}
+String matched!
+String matched!
+return
+c
+;
+String matched!
+}
+String matched!
+String matched!
+========Syntax analyzing ended=====

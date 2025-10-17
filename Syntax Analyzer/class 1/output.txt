@@ -1,0 +1,6 @@
+----Syntax analysis started----
+Found = I , token = N 
+Found = eat , token = V 
+Found = rice , token = O 
+Correct Sentence!
+----Syntax analysis Ended----

@@ -1,0 +1,12 @@
+----------Lexical analysis starting-------
+found = a , token = ID 
+found = = , token = EQUAL 
+found = 100 , token = NUMBER 
+found = + , token = OP 
+found = b , token = ID 
+found = * , token = OP 
+found = c , token = ID 
+found = + , token = OP 
+found = 30 , token = NUMBER 
+found = ; , token = SEMICOLON 
+----------Lexical analysis Ending-------

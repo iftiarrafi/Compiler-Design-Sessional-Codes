@@ -1,0 +1,15 @@
+for( i = 0 ; i < 10 ; i = i + 1){
+    if(a > b){
+    if(g >= f){
+        b = 10;
+    }
+
+    while(a < b){
+        b = c;
+    }
+}else if (b > c){
+    d = b + e; 
+}else{
+    c = 10;
+}
+}
